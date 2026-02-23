@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Node
+node_modules/
+.next/
+.turbo/
+out/
+
+# Compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Carpeta de construcción de MkDocs
+site/
+
+# IDEs
+.idea/
+.vscode/
+
+# Otras carpetas del sistema
+.DS_Store
+Thumbs.db

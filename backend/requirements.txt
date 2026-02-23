@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-cloud-aiplatform
+google-cloud-bigquery
+pydantic
+python-dotenv
+pandas
+google-generativeai
+python-multipart
+google-cloud-text-to-speech
+twilio
